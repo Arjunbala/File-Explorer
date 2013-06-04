@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextView 
+    android:textSize="23sp" 
+    android:layout_height="wrap_content" 
+    android:layout_width="fill_parent"
+    android:id="@+id/rowtext" 
+    xmlns:android="http://schemas.android.com/apk/res/android"/>
